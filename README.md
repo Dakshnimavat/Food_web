@@ -1,2 +1,2 @@
-# Restaurant_web
+# Food_web
 A Responsive Restaurant Website
